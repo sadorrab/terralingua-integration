@@ -1,5 +1,9 @@
 # TerraLingua
 
+> This as fork of
+> [cognizannt-ai-lab/terralingua](https://github.com/cognizant-ai-lab/terralingua)
+> from October 5, 2026
+
 **Paper:** [ResearchGate](https://www.researchgate.net/publication/402263491_TerraLingua_Emergence_and_Analysis_of_Open-endedness_in_LLM_Ecologies) · [arXiv](https://arxiv.org/abs/2603.16910)
 
 **Dataset:** https://huggingface.co/datasets/GPaolo/TerraLingua

@@ -1,0 +1,7 @@
+tl-paper-core:
+	source .venv/bin/activate && \
+	terralingua paper_core \
+		--ports '[9000,9001]' \
+		--init_agents 5 \
+		--max_ts 100
+

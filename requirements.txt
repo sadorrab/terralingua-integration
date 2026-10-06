@@ -1,6 +1,6 @@
 numpy>=2
 pandas
-pygame
+pygame-ce
 openai
 python-dotenv
 matplotlib
